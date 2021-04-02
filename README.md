@@ -1,9 +1,12 @@
-### Hi there 👋
-
-[![ChiShing's GitHub stats](https://github-readme-stats.vercel.app/api?username=chislee0708&show_icons=true&theme=dracula)](https://github.com/chislee0708/github-readme-stats)
-
+### This is Chi. :cloud:
+[![ChiShing's GitHub stats](https://github-readme-stats.vercel.app/api?username=chislee0708&show_icons=true&theme=dracula&hide=issues)](https://github.com/chislee0708/github-readme-stats)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chislee0708&repo=CanYouEscapeVR&theme=blueberry)](https://github.com/chislee0708/CanYouEscapeVR)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chislee0708&layout=compact)](https://github.com/chislee0708/github-readme-stats)
 
 - 📫 How to reach me: chislee0708@gmail.com
 <!--
