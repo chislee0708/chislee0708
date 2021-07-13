@@ -1,4 +1,5 @@
-# <img src="https://user-images.githubusercontent.com/37808313/125530182-28b8d115-635f-4c36-afeb-8e0d5158cb1c.gif" width="200" >𝕿𝖍𝖎𝖘 𝖎𝖘 𝕮𝖍𝖎𝖘𝖍𝖎𝖓𝖌 :cloud:
+# <img align =“right” src="https://user-images.githubusercontent.com/37808313/125530182-28b8d115-635f-4c36-afeb-8e0d5158cb1c.gif" width="200"  >𝕿𝖍𝖎𝖘 𝖎𝖘 𝕮𝖍𝖎𝖘𝖍𝖎𝖓𝖌 :cloud: <img align =“right” src="https://user-images.githubusercontent.com/60354073/125533518-41d62e66-980b-4fb3-89a5-65573205dad1.gif" width="200"  >
+
 
 <!-- <img align ="right" src="https://user-images.githubusercontent.com/37808313/125532096-eff60cdb-6f17-4b36-ba41-2c183533af94.gif" width="400"> 
  -->
