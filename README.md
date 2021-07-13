@@ -1,24 +1,17 @@
-### This is Chi. :cloud:
-[![ChiShing's GitHub stats](https://github-readme-stats.vercel.app/api?username=chislee0708&show_icons=true&theme=dracula&hide=issues)](https://github.com/chislee0708/github-readme-stats)
+# <img src="https://user-images.githubusercontent.com/37808313/125530182-28b8d115-635f-4c36-afeb-8e0d5158cb1c.gif" width="200" >𝕿𝖍𝖎𝖘 𝖎𝖘 𝕮𝖍𝖎𝖘𝖍𝖎𝖓𝖌 :cloud:
+
+<!-- <img align ="right" src="https://user-images.githubusercontent.com/37808313/125532096-eff60cdb-6f17-4b36-ba41-2c183533af94.gif" width="400"> 
+ -->
 
 
-
-
-
+<!-- [![ChiShing's GitHub stats](https://github-readme-stats.vercel.app/api?username=chislee0708&show_icons=true&theme=dracula&hide=issues)](https://github.com/chislee0708/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chislee0708&layout=compact)](https://github.com/chislee0708/github-readme-stats)
-
+ -->
 - 📫 How to reach me: chislee0708@gmail.com
-<!--
-**chislee0708/chislee0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-Here are some ideas to get you started:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chislee0708&repo=CanYouEscapeVR&theme=blueberry)](https://github.com/chislee0708/CanYouEscapeVR)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+<br/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/37808313/125532987-d66d9dc2-cbd9-4773-be92-b5281a1ae992.png" width="400"> 
